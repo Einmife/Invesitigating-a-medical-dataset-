@@ -4,7 +4,11 @@ This dataset contains information on over hundred thousand medical appointments 
 
 Research Questions:
 How many patients showed up for their medical appointments?
+
 Does age determine whether or not patients show up for their medical appointments?
+
 Is there any relationship between the gender distribution of the patients and their show ups to medical appointments?
+
 Do Scholarship recipients show up more for their medical appointments?
+
 Do patients who receive SMS notifications show up more for their appointments?
